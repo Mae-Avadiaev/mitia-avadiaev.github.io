@@ -1,34 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5919923.css",
-    "main.js": "/static/js/main.42219b49.js",
+    "main.css": "/static/css/main.0f10733b.css",
+    "main.js": "/static/js/main.45bb9e52.js",
     "static/media/cub3d.gif": "/static/media/cub3d.5ad0bd4778595d1415df.gif",
-    "static/media/asm.png": "/static/media/asm.07371de634d33ed0d1e5.png",
-    "static/media/philo.gif": "/static/media/philo.b0f5d14b478805ab2638.gif",
-    "static/media/airbnb-clone.png": "/static/media/airbnb-clone.9e0e0a8c1c376b3faec8.png",
+    "static/media/camgru3.png": "/static/media/camgru3.fe6145341fa5193ef7d4.png",
     "static/media/walper-inverted2.png": "/static/media/walper-inverted2.d27a9d1ec3f16e8aa19b.png",
-    "static/media/my-travel.png": "/static/media/my-travel.cc269c56eb01819a9941.png",
+    "static/media/Coursera_1.jpeg": "/static/media/Coursera_1.180e674c03b26c1bbbf6.jpeg",
     "static/media/walper2.png": "/static/media/walper2.a5905b7981d79a66d6d0.png",
     "static/media/Avatar.JPG": "/static/media/Avatar.3f04f1e5ab14aaa73ed9.JPG",
-    "static/media/education.png": "/static/media/education.773254263fad6e618e14.png",
     "static/media/quizzical.png": "/static/media/quizzical.18429db6379fd0ec08de.png",
-    "static/media/Terminal-icon-Yosemite.png": "/static/media/Terminal-icon-Yosemite.7fa6af493e7026cb0772.png",
-    "static/media/the-notes.png": "/static/media/the-notes.0c2e68ea8bffe4003b2f.png",
-    "static/media/menu-icon.png": "/static/media/menu-icon.478d6194b180cce2dd92.png",
     "static/media/tenzies-game.png": "/static/media/tenzies-game.190732ef5cedc32de764.png",
     "static/media/theme-icon.png": "/static/media/theme-icon.6acc5fe6677090e4b21c.png",
     "static/media/circle_filled.png": "/static/media/circle_filled.31b635ca9a71f018507b.png",
+    "static/media/project-icon.png": "/static/media/project-icon.436ddf4b2837f52f8576.png",
+    "static/media/42_Logo.svg.png": "/static/media/42_Logo.svg.99d65aab988c639366ed.png",
     "static/media/circle.png": "/static/media/circle.e91756acbf8be2ab3f89.png",
+    "static/media/linkedin_icon.png": "/static/media/linkedin_icon.68ac41e1459436bfd38f.png",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.d5919923.css.map": "/static/css/main.d5919923.css.map",
-    "main.42219b49.js.map": "/static/js/main.42219b49.js.map"
+    "main.0f10733b.css.map": "/static/css/main.0f10733b.css.map",
+    "main.45bb9e52.js.map": "/static/js/main.45bb9e52.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5919923.css",
-    "static/js/main.42219b49.js"
+    "static/css/main.0f10733b.css",
+    "static/js/main.45bb9e52.js"
   ]
 }
