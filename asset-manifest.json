@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0182a712.css",
-    "main.js": "/static/js/main.1cdc4447.js",
+    "main.css": "/static/css/main.1a90bf14.css",
+    "main.js": "/static/js/main.6a31dfb4.js",
     "static/media/cub3d.gif": "/static/media/cub3d.5ad0bd4778595d1415df.gif",
     "static/media/camgru3.png": "/static/media/camgru3.fe6145341fa5193ef7d4.png",
     "static/media/walper-inverted2.png": "/static/media/walper-inverted2.d27a9d1ec3f16e8aa19b.png",
@@ -9,6 +9,13 @@
     "static/media/walper2.png": "/static/media/walper2.a5905b7981d79a66d6d0.png",
     "static/media/Avatar.JPG": "/static/media/Avatar.3f04f1e5ab14aaa73ed9.JPG",
     "static/media/quizzical.png": "/static/media/quizzical.18429db6379fd0ec08de.png",
+    "static/media/NeueMachina-Black.ttf": "/static/media/NeueMachina-Black.014654455cfb26c46c76.ttf",
+    "static/media/NeueMachina-Ultralight.ttf": "/static/media/NeueMachina-Ultralight.e874e80d189631c23632.ttf",
+    "static/media/NeueMachina-Medium.ttf": "/static/media/NeueMachina-Medium.f720034f1ca535bd98d9.ttf",
+    "static/media/NeueMachina-Regular.ttf": "/static/media/NeueMachina-Regular.4dc4b2a360a973d59975.ttf",
+    "static/media/NeueMachina-Light.ttf": "/static/media/NeueMachina-Light.28c93e08edca1900c014.ttf",
+    "static/media/NeueMachina-Ultrabold.ttf": "/static/media/NeueMachina-Ultrabold.e7dc54d6addc0790114b.ttf",
+    "static/media/NeueMachina-Bold.ttf": "/static/media/NeueMachina-Bold.e3f0d560c71e5363d34c.ttf",
     "static/media/tenzies-game.png": "/static/media/tenzies-game.190732ef5cedc32de764.png",
     "static/media/theme-icon.png": "/static/media/theme-icon.6acc5fe6677090e4b21c.png",
     "static/media/circle_filled.png": "/static/media/circle_filled.31b635ca9a71f018507b.png",
@@ -21,11 +28,11 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.0182a712.css.map": "/static/css/main.0182a712.css.map",
-    "main.1cdc4447.js.map": "/static/js/main.1cdc4447.js.map"
+    "main.1a90bf14.css.map": "/static/css/main.1a90bf14.css.map",
+    "main.6a31dfb4.js.map": "/static/js/main.6a31dfb4.js.map"
   },
   "entrypoints": [
-    "static/css/main.0182a712.css",
-    "static/js/main.1cdc4447.js"
+    "static/css/main.1a90bf14.css",
+    "static/js/main.6a31dfb4.js"
   ]
 }
